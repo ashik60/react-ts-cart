@@ -1,6 +1,9 @@
 # Shopping Cart
-[Live Link Here](http://loacahost:3000)
+
+[Live Link Here](https://silly-ritchie-94efc9.netlify.app/)
 
 Techs:
+
 - React
 - TypeScript
+- Material UI
